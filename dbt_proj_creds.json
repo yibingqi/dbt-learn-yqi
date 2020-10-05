@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stellar-forest-291502",
+  "private_key_id": "83ec9f7e322cb16aa8b9d9245418ae0ad8977bad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCLJMpZOGBSsGgB\ntpUetH9rvjtHGJAxjVXbP70oK1eX0aC/844BNb8RgVhXqvluPCEXQNt5vf0NgJNd\nQu9atm5Tlr0jPCgOKl3Mm5Qtr9fV4lCtRC32niVkxwOskDFVL7n11c8CwWWYXsQ/\nlYH/+s9xyfeFZwqOPcU6xCJmBayivKm8UC1MT8p3fM5dKWWBnI9xagnUUJih+6zx\n67/HLMo51PbtGC++VD9owktUwcio0U+KqdGfQc/QPLSaFlqRy+Jf3CkuBimY6Udx\nKxdv8YoZgCdmG01spERi/WZQckkCjDGtpCvj9SKY9KkXdFHLLbrLZ20sJgvqgIrP\nWicUUoulAgMBAAECggEADquZmQgQYc9/G8UiGktqDtRPACs3Er5l0bi56xkMwnFD\n61EUxQxjYYdbZtzcMRLuYzr/mOme21RV1TSoM05+OdpwBR3D1GCDpL23hQyf60lR\n+76vQOwCIcq42LIYPXTLfL+m9JGq8kJ1mwWaoABT7FmguwQ28PHS0GQbA1owTjUB\nuAKjRfr5zHeHAQ7gTOLLFWux7xnkp0IsxgW2VA05w5rgWu22kmmzjb57WDYFje1l\nKhGOGuPxVPbsJVuYIU42BSdDn15a1CE4ijYBAonDccjG2bpqojKWzWRWmWJRkanc\n3y9xUE3zI4HktG0Gn19UkofWoISdZheGcYyTtNgeeQKBgQDCvP/86fNsRs4P3+cH\nwKbUBsEx4/htqB20LMf5TFDddvCZ8TJ10DcvqlceLofJlzsnSiDjctRn5Pu5IIzY\n5SfONO9wySQRiWfhvg/bYnMEL9eYNKnGCVg81BPcfpIOnzF0t+/Ls8TqYfmchJlY\nUJ41/q1QR8hji9XqyyiiSq0x2QKBgQC26o1yzLN1w8iA6RhW2lglF1zjlG6Xd/0S\nwxDGUAv+XaswTPxtmFWxOW36w8FH02RqWVmCplqrXGuOkVwta0+MaAIUAJeUuNrk\ncBea111YpW7/oxArQHZsRuSS+NOpMX+GzS4EaJE8GOVGYH9B+BWvUZafjQ9ZJrKI\nornLWcE8rQKBgEc/s0Err55MAZSZTQPvHpqwpfrE993XBpcnUzsJCwUcQUdxkg68\n0ZQk9J7cU14UcNYdLw9IsiIZC2heWmn43al6gKh5TzMDXPig+1g/GunLP0w26G7G\neHw489NWk8W5xPR5X8jdywweMJ9tfFVtmZUTywF2YgDZ5rhzADjwrZFxAoGAH5g0\nBnhFJzpCD8Izag0c3ItEiCrDT3ZySCNZame5Kp6TSyyBDY0agBojXQUjBX0GAzib\ntW12i9LS4TVKbq3yd5YfhcT0acPkS0DxUtWQUheBLLbFvDLOQbWdFaXVKYxbMrWO\nFUTakT7bm2Rfls17MWUuVzDOTd/ZRrCU1wMR1aECgYBgPyXvRJK+sfBHxY/pQ9DQ\nyW9GWH1HxzaUyWndR4PbJPhI4nmkXx85zPo+gBWHvA4181B1gYO4QPdL7UgbPNQR\nLGGhQH1teooNV7sLxjPu5OAdOPx5oArlnZU2+yxIPTVU+wiJokxaSPkZt1SgUM+y\n0lQlOJnVvIijRtfk2EJANQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@stellar-forest-291502.iam.gserviceaccount.com",
+  "client_id": "116185887930779565879",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40stellar-forest-291502.iam.gserviceaccount.com"
+}
